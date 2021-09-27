@@ -11,5 +11,9 @@
     border-radius: 10px;
 }
 body{
-    background-color: #EEEEEE;
+    background-color: #F0F0E1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    margin-left: 50px
 }
